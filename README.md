@@ -19,16 +19,14 @@
     ( ([https://github.com/adewuyiadebowale35-ux/sales-insight]))
 - <b>
 
-
+<b>
 <h2> 🤳 Connect with me:</h2>
 
 
-[twitter]: 
-[youtube]: 
-[instagram]: 
-[linkedin]: 
+[linkedin]:(https://www.linkedin.com/in/adebowale-adewuyi-094b53a2/)
 
-<!--
+</b>
+- <b>
 **Adewuyi Adebowale Sunday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

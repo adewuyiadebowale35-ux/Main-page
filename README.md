@@ -3,13 +3,13 @@
 <h2>👨‍💻Cybersecurity:</h2>
 
 - <b>Identity and access management IAM </b>
-   ( ([ https://github.com/adewuyiadebowale35-ux/IAM-management-]))
+    ([ https://github.com/adewuyiadebowale35-ux/IAM-management-])
 - <b>    
 <h2>📺Audio projects </h2>
 
 - Undersatnding control pin ("C:\Users\Kasutaja\Desktop\Qsys videos Sunday\control pins .mp4")
-- Creating \uci(https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- Qsys snap shots(https://www.youtube.com/watch?v=N-L9hklSlNk)
+- Creating \uci()
+- Qsys snap shots()
 
   <h2>👨‍💻Data Analysis</h2>
 
@@ -19,9 +19,11 @@
 
 <b>
 <h2> 🤳 Connect with me:</h2>
+- <b>Connect on my linkedin </b>
+    ([https://www.linkedin.com/in/adebowale-adewuyi-094b53a2/])
+- <b> 
 
-
-[linkedin]:(https://www.linkedin.com/in/adebowale-adewuyi-094b53a2/)
+[linkedin]:()
 
 </b>
 - <b>

@@ -4,7 +4,7 @@
 
 - <b>Identity and access management IAM </b>
     ([ https://github.com/adewuyiadebowale35-ux/IAM-management-])
-- <b>    
+
 <h2>📺Audio projects </h2>
 
 - Undersatnding control pin ("C:\Users\Kasutaja\Desktop\Qsys videos Sunday\control pins .mp4")
@@ -15,15 +15,15 @@
 
 - <b>Sales Insight </b>
     ( ([https://github.com/adewuyiadebowale35-ux/sales-insight]))
-- <b>
+
 
 <b>
 <h2> 🤳 Connect with me:</h2>
 - <b>Connect on my linkedin </b>
     ([https://www.linkedin.com/in/adebowale-adewuyi-094b53a2/])
-- <b> 
 
-[linkedin]:()
+
+
 
 </b>
 - <b>

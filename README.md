@@ -3,10 +3,8 @@
 <h2>👨‍💻Cybersecurity:</h2>
 
 - <b>Identity and access management IAM </b>
-  - Creating users
-  - Creating access
-  - Creating bulk users  ()
-- <b>
+   ( ([ https://github.com/adewuyiadebowale35-ux/IAM-management-]))
+- <b>    
 <h2>📺Audio projects </h2>
 
 - Undersatnding control pin ("C:\Users\Kasutaja\Desktop\Qsys videos Sunday\control pins .mp4")
